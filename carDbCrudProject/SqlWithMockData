@@ -1,0 +1,6 @@
+INSERT INTO Car (number_plate, manufacturer, model, manufacture_year) VALUES
+('ABC123', 'Toyota', 'Corolla', 2018),
+('XYZ456', 'Honda', 'Civic', 2019),
+('DEF789', 'Ford', 'Mustang', 2020),
+('GHI012', 'Chevrolet', 'Camaro', 2021),
+('JKL345', 'Tesla', 'Model S', 2022);
